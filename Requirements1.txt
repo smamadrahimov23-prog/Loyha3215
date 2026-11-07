@@ -1,0 +1,4 @@
+aiogram>=3.13,<4
+aiohttp>=3.9
+yt-dlp
+shazamio>=0.7.0
